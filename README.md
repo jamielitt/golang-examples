@@ -33,3 +33,9 @@ To simply run an application, just use:
 To compile an application, use:
 `go build helloworld.go`
 
+## Interesting bits of information from doing the excercises
+
+### No ternary operators in Go
+
+There are no ternary operators in Go, you are expected to write if the if statement in full
+
